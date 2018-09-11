@@ -13,7 +13,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Overtrue\\Weather\\ServiceProvider"
+                "Yuuhao\\Weather\\ServiceProvider"
             ]
         }
     }
